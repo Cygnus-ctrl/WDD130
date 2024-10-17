@@ -1,0 +1,33 @@
+body {
+    background: lightgrey;
+}
+
+.qbox1 {
+    margin: 20px;
+    border: 5px solid black;
+    border-radius: 20px;
+    padding: 10px 15px;
+    width: 500px;
+    background: rgb(224, 240, 240);
+    box-sizing: border-box;
+}
+
+.qbox2 {
+    margin: 20px;
+    border: 15px dotted royalblue;
+    border-spacing: 15px;
+    padding: 10px 15px;
+    width: 500px;
+    background: pink;
+    box-sizing: border-box;
+}
+
+.qbox3 {
+    margin: 20px;
+    border: 35px solid darkred;
+    border-radius: 60px;
+    padding: 10px 15px;
+    width: 500px;
+    background: goldenrod;
+    box-sizing: border-box;
+}

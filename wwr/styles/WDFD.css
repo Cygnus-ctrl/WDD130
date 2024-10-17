@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+}
+.web {
+    margin: 0px;
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+footer {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.table {
+    width: 200px;
+    background: gray;
+    border-radius: 50%;
+    border: solid 15px;
+    border-color: rgb(85, 85, 85);
+    margin-top: 35px;
+    position: relative;
+}
+main {
+    background: gray;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 400px;
+}
+.row {
+    display: flex ;
+}
+.column {
+    flex: 33.33%;
+    padding: 5px;
+    
+}
