@@ -19,7 +19,7 @@ footer {
     border: solid 15px;
     border-color: rgb(85, 85, 85);
     margin-top: 35px;
-    position: relative;
+    margin-left: 40px;
 }
 main {
     background: gray;
