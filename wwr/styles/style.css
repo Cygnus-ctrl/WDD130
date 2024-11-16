@@ -191,7 +191,25 @@ nav {
     opacity: .6;
     transform: scale(1.1);
 }
-
+.FAQ_image {
+    color: red;
+    border: black solid 5px;
+    border-radius: 90%;
+    background-color: darkslategray;
+    background-position: left;
+    font-size: 40px;
+    text-align: center;
+    width: 120px;
+    height: 120px;
+    margin-top: 2px;
+    margin-left: 2px;
+    padding-bottom: 4px;
+    font-family: "Lato";    
+}
+.ooby {
+    font-size: 18px;
+    margin-left: 8px;
+}
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
